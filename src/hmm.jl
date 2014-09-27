@@ -1,6 +1,6 @@
 
 using Distributions
-using NumbericExtensions
+using NumericExtensions
 using MLBase
 
 import MixtureModels.AbstractModelEstimator
